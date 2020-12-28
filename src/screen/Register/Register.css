@@ -1,0 +1,14 @@
+.form-login {
+    width: 650px;
+}
+
+.btn-register {
+    background: #614ea6;
+    color: #ffff;
+    width: 100%;
+}
+
+.btn-register:hover {
+    background: #f21667;
+    color: #ffff;
+}
